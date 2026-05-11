@@ -4,102 +4,100 @@
 
 Ovation ("App", "Platform", "Service") respects your privacy and is committed to protecting your personal information.
 
-By accessing or using the application, you agree to the following Privacy Policy and Terms.
+By accessing or using the application, you agree to this Privacy Policy and Terms.
 
 ---
 
-# 🔐 Privacy Policy
+## 🔐 Privacy Policy
 
-## 1. Information We Collect
+### 1. Information We Collect
 
-We may collect:
+We may collect the following types of information:
 
 - Name and username
 - Email address
 - Profile picture
 - Uploaded videos and captions
-- Device information
-- Usage data and analytics
+- Device information (device model, operating system version)
+- Usage data and analytics (app interactions, performance data)
 
 ---
 
-## 2. How We Use Information
+### 2. How We Use Information
 
-Your information is used to:
+We use collected information to:
 
-- Create and manage your account
-- Provide platform functionality
+- Create and manage user accounts
+- Provide core app functionality
 - Improve performance and user experience
-- Send notifications
-- Maintain platform security
+- Send important notifications and updates
+- Maintain platform security and prevent abuse
 
 ---
 
-## 3. Data Security
+### 3. Data Security
 
-We use secure authentication and token-based session management to protect user data.
+We use secure authentication systems and token-based sessions to protect user data.
 
-However, no platform can guarantee complete security. Users are responsible for maintaining password confidentiality.
-
----
-
-## 4. User Content
-
-Videos and content you upload may be publicly visible depending on privacy settings.
-
-You retain ownership of your content.
+However, no system is 100% secure. Users are responsible for keeping their account credentials confidential.
 
 ---
 
-## 5. Third-Party Services
+### 4. User Content
 
-We may use third-party services such as:
+- Users may upload videos, captions, and other content.
+- Depending on privacy settings, content may be publicly visible.
+- Users retain full ownership of their content.
+- By uploading content, you grant us permission to display and distribute it within the platform.
 
-- Cloud hosting providers
+---
+
+### 5. Third-Party Services
+
+We may use third-party services, including:
+
+- Cloud hosting providers (e.g., AWS, Firebase)
 - Analytics tools
 - Push notification services
 
-These services operate under their own privacy policies.
+Each third-party service operates under its own privacy policy.
 
 ---
 
-## 6. Children’s Privacy
+### 6. Children’s Privacy
 
-Ovation is intended for users aged **13 and above**.
+Ovation is intended for users aged **13 years and above**.
 
-We do not knowingly collect personal information from children under 13.
-
----
-
-## 7. Account & Data Deletion
-
-Users may request account deletion by contacting:
-
-📧 shellyraiter@gmail.com  
-
-Account data will be permanently removed within a reasonable timeframe unless legally required otherwise.
+We do not knowingly collect personal data from children under 13. If such data is discovered, it will be deleted immediately.
 
 ---
 
-# 📜 Terms & Conditions Summary
+### 7. Account & Data Deletion
+
+Users may request account deletion at any time by contacting:
+
+📧 Email: shellyraiter@gmail.com
+
+All personal data will be deleted within a reasonable timeframe unless legally required to retain it.
+
+---
+
+## 📜 Terms & Conditions
 
 By using Ovation, you agree that:
 
 - You are at least 13 years old.
-- You will not upload illegal, abusive, or copyrighted content without permission.
-- You are responsible for your account activity.
-- Ovation may suspend or terminate accounts that violate community guidelines.
-
-We reserve the right to update these policies at any time.
-
----
-
-# 📧 Contact Information
-
-For privacy or legal concerns:
-
-Email: shellyraiter@gmail.com  
+- You will not upload illegal, abusive, hateful, or copyrighted content without permission.
+- You are responsible for all activity under your account.
+- Ovation may suspend or terminate accounts that violate community guidelines or terms.
+- We may update these Terms and Privacy Policy at any time. Continued use of the app means acceptance of changes.
 
 ---
 
-© 2026 Ovation. All Rights Reserved.
+## 📧 Contact Information
+
+For privacy questions, support, or legal concerns:
+
+- Email: **shellyraiter@gmail.com**
+
+---
